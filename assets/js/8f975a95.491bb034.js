@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkorobo=self.webpackChunkorobo||[]).push([[8613],{758:o=>{o.exports=JSON.parse('{"metadata":{"permalink":"/orobo-wiki/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
