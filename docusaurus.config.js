@@ -25,6 +25,7 @@ const config = {
   organizationName: 'fablabjoinville', // Usually your GitHub org/user name.
   projectName: 'orobo-wiki', // Usually your repo name.
 
+  trailingSlash: true,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
