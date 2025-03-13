@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkorobo=self.webpackChunkorobo||[]).push([[1903],{1912:o=>{o.exports=JSON.parse('{"blogBasePath":"/orobo/blog","blogTitle":"Blog","authorsListPath":"/orobo/blog/authors"}')}}]);
