@@ -1,23 +1,32 @@
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
+alfakini:
+  name: Alan R. Fachini
+  title: Software Engineer
+  url: https://github.com/alfakini
+  image_url: https://github.com/alfakini.png
   page: true
   socials:
-    x: yangshunz
-    github: yangshun
-
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
-  page:
-    # customize the url of the author page at /blog/authors/<permalink>
-    permalink: '/all-sebastien-lorber-articles'
+    github: alfakini
+gabrielbosse1:
+  name: Gabriel Bosse
+  title: Software Engineer
+  url: https://github.com/gabrielbosse1
+  image_url: https://github.com/gabrielbosse1.png
+  page: true
   socials:
-    x: sebastienlorber
-    linkedin: sebastienlorber
-    github: slorber
-    newsletter: https://thisweekinreact.com
+    github: gabrielbosse1
+girardijp:
+  name: João Pedro Giraldi
+  title: Software Engineer
+  url: https://github.com/girardijp
+  image_url: https://github.com/girardijp.png
+  page: true
+  socials:
+    github: girardijp
+thecodergus:
+  name: Gustavo
+  title: Software Engineer
+  url: https://github.com/thecodergus
+  image_url: https://github.com/thecodergus.png
+  page: true
+  socials:
+    github: thecodergus

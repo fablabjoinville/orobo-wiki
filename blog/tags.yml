@@ -1,19 +1,14 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+lerobot:
+  label: Lerobot
+  permalink: /lerobot
+  description: Lerobot related
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+robots:
+  label: Robots
+  permalink: /robots
+  description: Robots in general
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
-
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+ai:
+  label: AI
+  permalink: /ai
+  description: AI in general
